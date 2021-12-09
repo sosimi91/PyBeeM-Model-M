@@ -1,4 +1,4 @@
-#CircuitPy code to make IBM Model M USB compatible.
+# CircuitPy code to make IBM Model M USB compatible.
 
 The project is similar to those Teensy board Model M driver kits
 (e.g. this: https://blog.lmorchard.com/2016/02/21/modelm-controller/),
