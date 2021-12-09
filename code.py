@@ -247,18 +247,13 @@ def pin_off(pin):
 
 
 def check_leds():
-    print("checking leds")
     if keyboard.led_on(Keyboard.LED_NUM_LOCK):
-        print("turning on num lock")
         pin_on(num_lock_led)
     else:
-        print("turning off num lock")
         pin_off(num_lock_led)
     if keyboard.led_on(Keyboard.LED_CAPS_LOCK):
-        print("turning on caps lock")
         pin_on(caps_lock_led)
     else:
-        print("turning off caps lock")
         pin_off(caps_lock_led)
 
 
