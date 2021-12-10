@@ -41,3 +41,9 @@ given that you can wire it up)
 of the Les Orchard blog, tl;dr: there is some key combos which you can't press
 together at the same time
 * you tell me
+
+### Other notes
+The usb storage mode is disabled to decrease chance of file system corruption
+if the pico is removed unsafely.
+If you want to access the pico's usb storage mode, press the D (as debug) key when
+connecting the device to the computer.
