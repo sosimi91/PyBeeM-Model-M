@@ -25,7 +25,8 @@ I used these sockets:
   * https://www.tme.eu/hu/details/ds1020-08st1d/ffc-fpc-csatlakozok-raszter-2-54mm/connfly/
   * https://www.tme.eu/hu/details/ds1020-04st1d/ffc-fpc-csatlakozok-raszter-2-54mm/connfly/
 * the led board can be re-used 
-* install Circuit Python to your raspberry pi pico: https://circuitpython.org/board/raspberry_pi_pico/
+* install Circuit Python 7.0.0 to your raspberry pi pico: 
+https://adafruit-circuit-python.s3.amazonaws.com/bin/raspberry_pi_pico/en_US/adafruit-circuitpython-raspberry_pi_pico-en_US-7.0.0.uf2
 
 ### Installation
 
