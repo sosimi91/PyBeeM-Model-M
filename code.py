@@ -269,6 +269,9 @@ while True:
 
         for i_index, in_ in enumerate(input_pins):
             key = keyboard_mapping[i_index][o_index]
+            # uncomment to detect keycodes
+            # if in_.value:
+            #     print(i_index, o_index)
             if key is None:
                 continue
 
