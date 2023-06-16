@@ -196,7 +196,7 @@ keyboard_mapping = [
     # IN14
     [
         MyKey("UP_ARROW", Keycode.UP_ARROW, "key"),                             # OUT0
-        None,                                                                   # OUT1
+        MyKey("WINDOWS", Keycode.WINDOWS, "key"),                               # OUT1
         MyKey("HOME", Keycode.HOME, "key"),                                     # OUT2
         MyKey("END", Keycode.END, "key"),                                       # OUT3
         MyKey("KEYPAD_PLUS", Keycode.KEYPAD_PLUS, "key"),                       # OUT4
